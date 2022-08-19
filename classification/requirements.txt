@@ -1,0 +1,7 @@
+numpy
+opencv_contrib_python
+Pillow
+tensorboardX
+torch
+tqdm
+einops
