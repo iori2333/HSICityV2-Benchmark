@@ -6,7 +6,7 @@ This is the official code repository for NeurIPS2022 Track **Urban Scene Underst
 
 ### Common models
 
-For our classification models, we use SGD(lr=0.01) as optimizer.
+For our classification models, we use SGD(lr=0.001) as optimizer.
 
 1. You need to download our HSICityV2 dataset, and set dataset path in `train.py`.
 2. Run `pip install -r requirements.txt` to install dependencies.
